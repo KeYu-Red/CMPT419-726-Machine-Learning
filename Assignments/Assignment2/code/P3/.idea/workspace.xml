@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3911b699-05ac-4550-b1c3-7224bf480e2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YlwrXN8mjjXTy4QAR0wUhjiBz4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.logistic_regression_sgd">
+    <configuration name="logistic_regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_regression_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic_regression_mod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_regression_sgd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic_regression_sgd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logistic_regression_sgd" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.logistic_regression" />
+        <item itemvalue="Python.logistic_regression_mod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3911b699-05ac-4550-b1c3-7224bf480e2c" name="Default Changelist" comment="" />
+      <created>1583530687589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583530687589</updated>
+      <workItem from="1583530695374" duration="6473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1613" height="290" key="GridCell.Tab.0.bottom" timestamp="1583539664253">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1358" height="234" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.960@0.23.1920.960" timestamp="1583530858345" />
+    <state width="1613" height="234" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.964@0.23.1920.964" timestamp="1583530996361" />
+    <state width="1613" height="290" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664253" />
+    <state width="1613" height="234" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583539229555" />
+    <state width="1613" height="234" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.975@0.23.1920.975" timestamp="1583537075974" />
+    <state width="1613" height="290" key="GridCell.Tab.0.center" timestamp="1583539664252">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1358" height="234" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.960@0.23.1920.960" timestamp="1583530858344" />
+    <state width="1613" height="234" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.964@0.23.1920.964" timestamp="1583530996360" />
+    <state width="1613" height="290" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664252" />
+    <state width="1613" height="234" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583539229554" />
+    <state width="1613" height="234" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.975@0.23.1920.975" timestamp="1583537075973" />
+    <state width="1613" height="290" key="GridCell.Tab.0.left" timestamp="1583539664252">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1358" height="234" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.960@0.23.1920.960" timestamp="1583530858344" />
+    <state width="1613" height="234" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.964@0.23.1920.964" timestamp="1583530996360" />
+    <state width="1613" height="290" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664252" />
+    <state width="1613" height="234" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583539229554" />
+    <state width="1613" height="234" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.975@0.23.1920.975" timestamp="1583537075973" />
+    <state width="1613" height="290" key="GridCell.Tab.0.right" timestamp="1583539664253">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1358" height="234" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.960@0.23.1920.960" timestamp="1583530858344" />
+    <state width="1613" height="234" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.964@0.23.1920.964" timestamp="1583530996361" />
+    <state width="1613" height="290" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664253" />
+    <state width="1613" height="234" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583539229555" />
+    <state width="1613" height="234" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.975@0.23.1920.975" timestamp="1583537075974" />
+    <state width="1613" height="290" key="GridCell.Tab.1.bottom" timestamp="1583539664254">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1613" height="290" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664254" />
+    <state width="1613" height="290" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583537430250" />
+    <state width="1613" height="290" key="GridCell.Tab.1.center" timestamp="1583539664254">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1613" height="290" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664254" />
+    <state width="1613" height="290" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583537430249" />
+    <state width="1613" height="290" key="GridCell.Tab.1.left" timestamp="1583539664254">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1613" height="290" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664254" />
+    <state width="1613" height="290" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583537430249" />
+    <state width="1613" height="290" key="GridCell.Tab.1.right" timestamp="1583539664254">
+      <screen x="0" y="23" width="1920" height="967" />
+    </state>
+    <state width="1613" height="290" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.967@0.23.1920.967" timestamp="1583539664254" />
+    <state width="1613" height="290" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1583537430250" />
+    <state x="562" y="147" key="SettingsEditor" timestamp="1583530963938">
+      <screen x="0" y="23" width="1920" height="964" />
+    </state>
+    <state x="562" y="147" key="SettingsEditor/1920.23.1440.877/0.23.1920.964@0.23.1920.964" timestamp="1583530963938" />
+    <state x="682" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1583530792598">
+      <screen x="0" y="23" width="1920" height="960" />
+    </state>
+    <state x="682" y="341" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.960@0.23.1920.960" timestamp="1583530792598" />
+    <state x="817" y="386" width="699" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583530954011">
+      <screen x="0" y="23" width="1920" height="964" />
+    </state>
+    <state x="817" y="386" width="699" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.23.1440.877/0.23.1920.964@0.23.1920.964" timestamp="1583530954011" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/P3$logistic_regression_sgd.coverage" NAME="logistic_regression_sgd Coverage Results" MODIFIED="1583539229544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/P3$logistic_regression_mod.coverage" NAME="logistic_regression_mod Coverage Results" MODIFIED="1583537511032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/P3$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1583537676831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/P3$test.coverage" NAME="test Coverage Results" MODIFIED="1583538459127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
